@@ -324,6 +324,7 @@ Vodafone, Yahoo
 
 **Bootcamp IA - Proyecto 12 - Grupo 2**
 - Umit Gungor - Entrenamiento del modelo y evaluación
+- Mónica Gómez - Entrenamiento del modelo v8  y evaluación
 - Oscar Rodriguez - Demo Streamlit y Docker
 
 ---
